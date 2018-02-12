@@ -46,6 +46,12 @@ public class Main {
                     System.out.println("You are not age " + age);
         }
 
+        int counter = 0;
+        while (counter <= 10){
+            System.out.println(counter);
+            counter++;
+        }
+
     }
 
 
