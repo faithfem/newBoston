@@ -6,9 +6,14 @@ public class faith {
 
         //find words that start with
 
-        for(String w : words){
-            if(w.startsWith("fu"))
-                System.out.println(w + " starts with fu");
+        for(String k : words){ //String "k" - can name the variable anything
+            if(k.startsWith("fu"))
+                System.out.println(k + " starts with fu");
+        }
+
+        for(String k : words) { //String "k" - can name the variable anything
+            if (k.endsWith("k"))
+                System.out.println(k + " ends with k");
         }
 
     }
