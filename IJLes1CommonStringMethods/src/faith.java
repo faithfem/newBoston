@@ -1,4 +1,4 @@
-public class faith {
+/*public class faith {
 
     public static void main(String[]args){
 
@@ -10,5 +10,10 @@ public class faith {
                 if (x.startsWith("fu"))
                     System.out.println(x + " starts with fu");
             }
+
+
+
+
+
     }
-}
+}*/
