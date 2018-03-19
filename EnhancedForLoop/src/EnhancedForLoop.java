@@ -16,6 +16,7 @@ public class EnhancedForLoop {
 
         String faithShoppingList[] = {"eggs", "bread", "butter", "milk", "water"};
         System.out.println("1. " + faithShoppingList[3]);
+        //System.out.println(faithShoppingList); This can't print the list. Need to create a loop in order to print entire list
 
         for(String list: faithShoppingList){
             System.out.println(list);
